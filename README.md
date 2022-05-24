@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Sweet-Pumpkin/TIL/blob/master/img/github01.png" />
   <h3>📌Experience</h3>
-  <p>FastCamput Megabyte School 프론트엔드 개발자 과정</p>
+  <p>FastCampus Megabyte School 프론트엔드 개발자 과정</p>
   
   <h3>🧬Skill</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/react.md">
