@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <img src="https://github.com/Sweet-Pumpkin/TIL/blob/master/img/github01.png" />
   <h3>📌Experience</h3>
   <p>FastCamput Megabyte School 프론트엔드 개발자 과정</p>
   
@@ -36,7 +36,9 @@
   </a>
   <br />
   <br />
-  <img src="https://velog-readme-stats.vercel.app/api?name=sweet_pumpkin" />
+  <a href="https://velog.io/@sweet_pumpkin">
+    <img src="https://velog-readme-stats.vercel.app/api?name=sweet_pumpkin" />
+  </a>
 </div>
 
 
