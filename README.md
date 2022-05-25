@@ -34,11 +34,6 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/error.md">
     <img src="https://img.shields.io/badge/에러/해결-ED1A3A?style=flat-square&logo=Verizon&logoColor=FFFFFF"/>
   </a>
-  <br />
-  <br />
-  <a href="https://velog.io/@sweet_pumpkin">
-    <img src="https://velog-readme-stats.vercel.app/api?name=sweet_pumpkin" />
-  </a>
 </div>
 
 
