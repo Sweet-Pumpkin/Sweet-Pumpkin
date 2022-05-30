@@ -7,16 +7,21 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/react.md">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/javascript.md">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
-  </a>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/redux.md">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=FFFFFF"/>
   </a>
+  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/javascript.md">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
+  </a>
+  
+  <br />
+  
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/python.md">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
   </a>
-  <br />
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/vue.md">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=FFFFFF"/>
   </a>
