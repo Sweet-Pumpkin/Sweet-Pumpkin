@@ -13,7 +13,7 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/javascript.md">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
   </a>
-  <a href="">
+  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/typescript.md">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
   </a>
   
