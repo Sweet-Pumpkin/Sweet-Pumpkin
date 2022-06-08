@@ -22,8 +22,8 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/python.md">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/vue.md">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=FFFFFF"/>
+  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/firebase.md">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF"/>
   </a>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/html-css.md">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
