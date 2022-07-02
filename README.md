@@ -31,6 +31,9 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/html-css.md">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
   </a>
+  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/item/c.md">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
+  </a>
   
   <h3>✏Today I Learned.</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/master/main/date.md">
