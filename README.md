@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/github-thumbnail.png" />
   <h3>📌Experience</h3>
-  <p>FastCampus Megabyte School 프론트엔드 개발자 과정</p>
+  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/experience/fastcampus.md">FastCampus Megabyte School 프론트엔드 개발자 과정</a>
   
   <h3>🧬Skill</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/react.md">
