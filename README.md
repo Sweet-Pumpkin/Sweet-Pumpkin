@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/github-thumbnail.png" />
   <h3>📌Experience</h3>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/experience/fastcampus.md">FastCampus Megabyte School 프론트엔드 개발자 과정</a>
+  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/experience/fastcampus.md">
+    <img src="https://img.shields.io/badge/Fastcampus 프론트엔드 개발자 과정-D70F64?style=for-the-badge&logo=Framework7&logoColor=FFFFFF"/>
+  </a>
   
   <h3>🧬Skills</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/react.md">
