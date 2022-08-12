@@ -65,6 +65,11 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/error.md">
     <img src="https://img.shields.io/badge/에러/해결-ED1A3A?style=for-the-badge&logo=Verizon&logoColor=FFFFFF"/>
   </a>
+  
+  <br />
+  <br />
+  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSweet-Pumpkin&count_bg=%23512BD4&title_bg=%23512BD4&icon=googlefit.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false"/></a>
 </div>
 
 
