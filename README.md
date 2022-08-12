@@ -3,7 +3,7 @@
   <h3>📌Experience</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/experience/fastcampus.md">FastCampus Megabyte School 프론트엔드 개발자 과정</a>
   
-  <h3>🧬Skill</h3>
+  <h3>🧬Skills</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/react.md">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
   </a>
@@ -16,9 +16,6 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/typescript.md">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/>
   </a>
-  
-  <br />
-  
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/python.md">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/>
   </a>
@@ -33,6 +30,14 @@
   </a>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/c.md">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/>
+  </a>
+  
+  <h3>💬Languages</h3>
+  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/korea.jpeg">
+    <img src="https://img.shields.io/badge/한국어-D20A0A?style=for-the-badge&logo=Kongregate&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/korea.jpeg">
+    <img src="https://img.shields.io/badge/Français-002E5F?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/>
   </a>
   
   <h3>✏Today I Learned.</h3>
