@@ -47,6 +47,14 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF"/>
   </a>
 
+  <h3>🎨Design tools</h3>
+  <a href="https://github.com/Sweet-Pumpkin">
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://github.com/Sweet-Pumpkin">
+    <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
+  </a>
+  
   <h3>💬Languages</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/korea.jpeg">
     <img src="https://img.shields.io/badge/한국어-D20A0A?style=for-the-badge&logo=Kongregate&logoColor=FFFFFF"/>
@@ -54,14 +62,6 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/france.jpeg">
     <img src="https://img.shields.io/badge/Français-002E5F?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/>
   </a>
-  
-  <h3>🎨Design tools</h3>
-    <a href="https://github.com/Sweet-Pumpkin">
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF"/>
-    </a>
-    <a href="https://github.com/Sweet-Pumpkin">
-      <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
-    </a>
   
   <h3>✏Today I Learned.</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/main/date.md">
