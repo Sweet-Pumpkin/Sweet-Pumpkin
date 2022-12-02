@@ -32,9 +32,6 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/>
   </a>
   <a href="https://github.com/Sweet-Pumpkin">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000"/>
-  </a>
-  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/styled—components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFFFFF"/>
   </a>
   <a href="https://github.com/Sweet-Pumpkin">
