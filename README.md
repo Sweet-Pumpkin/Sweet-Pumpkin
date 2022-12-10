@@ -19,17 +19,8 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/typescript.md">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" />
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/python.md">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" />
-  </a>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/firebase.md">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=000000" />
-  </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/c.md">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000000" />
-  </a>
-  <a href="https://github.com/Sweet-Pumpkin">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/styled—components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFFFFF" />
