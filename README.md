@@ -37,13 +37,16 @@
 
   <h3>🎨Design tools</h3>
   <a href="https://github.com/Sweet-Pumpkin">
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/Sweet-Pumpkin">
-    <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/Sweet-Pumpkin">
-    <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=FFFFFF" />
+  </a>
+  <a href="https://github.com/Sweet-Pumpkin">
+    <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=FFFFFF" />
   </a>
   
   <h3>💬Languages</h3>
