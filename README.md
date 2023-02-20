@@ -50,10 +50,10 @@
   </a>
   
   <h3>💬Languages</h3>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/korea.jpeg">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/한국어-D20A0A?style=for-the-badge&logo=Kongregate&logoColor=FFFFFF" />
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/france.jpeg">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/Français-002E5F?style=for-the-badge&logo=Facebook&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/Sweet-Pumpkin">
