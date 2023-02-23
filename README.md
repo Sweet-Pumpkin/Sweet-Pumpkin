@@ -64,11 +64,8 @@
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/main/date.md">
     <img src="https://img.shields.io/badge/날짜별TIL-0288D1?style=for-the-badge&logo=Verizon&logoColor=FFFFFF" />
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/coding-test.md">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/코딩테스트-179C7D?style=for-the-badge&logo=Verizon&logoColor=FFFFFF" />
-  </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/error.md">
-    <img src="https://img.shields.io/badge/에러/해결-ED1A3A?style=for-the-badge&logo=Verizon&logoColor=FFFFFF" />
   </a>
   
   <br />
