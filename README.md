@@ -7,19 +7,19 @@
   </a>
   
   <h3>🧬Skills</h3>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/react.md">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000" />
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/redux.md">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF" />
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/javascript.md">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000" />
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/typescript.md">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" />
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/firebase.md">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=000000" />
   </a>
   <a href="https://github.com/Sweet-Pumpkin">
@@ -28,7 +28,7 @@
   <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=FFFFFF" />
   </a>
-  <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/html-css.md">
+  <a href="https://github.com/Sweet-Pumpkin">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/item/html-css.md">
@@ -78,8 +78,3 @@
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSweet-Pumpkin&count_bg=%23512BD4&title_bg=%23512BD4&icon=googlefit.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" /></a>
 </div>
-
-
-  
-
-
