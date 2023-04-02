@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/github-thumbnail.png" />
+  <img src="https://github.com/Sweet-Pumpkin/TIL/blob/main/img/github_thumbnail.png" />
   
   <h3>📌Experience</h3>
   <a href="https://github.com/Sweet-Pumpkin/TIL/blob/main/experience/fastcampus.md">
